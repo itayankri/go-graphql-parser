@@ -182,6 +182,7 @@ func checkValuesOfCorrectTypeInOperation(
 
 func assertValueType(v value, t _type) bool {
 	// TODO: Implement
+	panic(errors.New("Unimplmented method assertValueType()"))
 }
 
 // http://spec.graphql.org/draft/#sec-Input-Object-Field-Names
